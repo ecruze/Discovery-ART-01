@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 93.18 93.18">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ff1d68;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-3 {
+        fill: #f2f2f2;
+      }
+
+      .cls-4 {
+        fill: #cdff00;
+      }
+
+      .cls-5 {
+        fill: #949ba6;
+      }
+    </style>
+  </defs>
+  <g id="Layer_2-2" data-name="Layer 2">
+    <g>
+      <g>
+        <circle class="cls-4" cx="46.59" cy="46.59" r="28.18"/>
+        <rect class="cls-2" width="93.18" height="93.18"/>
+      </g>
+      <g>
+        <path class="cls-4" d="M46.59,68.23c-16.02,0-30.01-8.7-37.49-21.64,7.48-12.94,21.47-21.64,37.49-21.64s30.01,8.7,37.49,21.64c-7.48,12.94-21.47,21.64-37.49,21.64Z"/>
+        <path class="cls-3" d="M46.59,68.23c-16.02,0-30.01-8.7-37.49-21.64,7.48-12.94,21.47-21.64,37.49-21.64s30.01,8.7,37.49,21.64c-7.48,12.94-21.47,21.64-37.49,21.64Z"/>
+        <circle class="cls-5" cx="46.59" cy="46.59" r="20.74"/>
+        <circle class="cls-1" cx="46.59" cy="46.59" r="12.62"/>
+      </g>
+    </g>
+  </g>
+</svg>
